@@ -1,5 +1,5 @@
 {
-  "authorization_endpoint": "https://ap-south-1hwvs0jhfd.auth.ap-south-1.amazoncognito.com/oauth2/authorize",
+  "authorization_endpoint": "https://uat.pfrdatrace.org.in/commonLogin/login",
   "end_session_endpoint": "https://ap-south-1hwvs0jhfd.auth.ap-south-1.amazoncognito.com/logout",
   "id_token_signing_alg_values_supported": [
     "RS256"
